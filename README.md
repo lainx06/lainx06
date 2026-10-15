@@ -1,69 +1,49 @@
-<h1 align="center">Hey, I'm Adnan 👋</h1>
+<h1 align="center">Adnan Hossain</h1>
 
 <p align="center">
-  <b>Electrical Engineering Student @ CCNY</b><br>
-  Building at the intersection of hardware and software.<br>
-  Embedded systems today — neuromorphic computing tomorrow.
+  <strong>Embedded systems · Applied machine learning · Developer tools</strong><br>
+  Undergraduate at The City College of New York, focused on computer science.<br>
+  Building software that connects sensing, intelligence, and real-world systems.
 </p>
 
----
-
-## ⚡ About Me
-
-- 🎓 Incoming EE student at **City College of New York (Fall 2026)**
-- 🔧 I build things that bridge the physical and digital world
-- 🧠 Long-term interest in **neuromorphic computing** and **AI hardware**
-- 🏆 Hackathon placement — Urban Longevity Dashboard (3rd Place)
-- 🚀 Goal: Found my own hardware tech company and research lab
-
----
-
-## 🛠️ Tech Stack
-
-**Hardware**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Tools & Frameworks**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🔨 Featured Projects
-
-### 🔭 [Hardware-in-the-Loop Telemetry Pipeline](https://github.com/lainx06/hil-telemetry-pipeline)
-> Real-time distance telemetry system — HC-SR04 sensor → Arduino → C++ firmware → live Python dashboard
-> `Arduino` `C++` `Python` `Streamlit` `Embedded Systems`
-
-### 🌿 [Urban Longevity Dashboard](https://github.com/lainx06/urban-longevity-dashboard)
-> Geospatial analysis of 64,488 NYC street trees to identify canopy gaps and automate planting recommendations
-> `Python` `Pandas` `Plotly` `Streamlit` `Open Data`
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lainx06&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainx06&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <a href="https://github.com/lainx06?tab=repositories">Projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/adnan-hossain-5a6425248">LinkedIn</a>
 </p>
 
----
+About
+I'm interested in how intelligent systems work from end to end: acquiring a signal, processing it, running a model, and verifying the result.
+During my AFRL/CUNY research internship, I worked on low-cost muscle-signal intent recognition, combining Python signal processing and machine learning with embedded C++ inference. I enjoy turning experiments into working systems and understanding where they fail.
+My long-term goal is to build a company and research lab developing useful technology across AI, robotics, and embedded systems.
+Selected work
+Muscle-signal intent recognition · AFRL/CUNY research
+Developed a low-cost sEMG intent-recognition system and implemented inference on an ATmega328P.
+- Verified that the embedded implementation matched the Python reference across 666 test cases.
+- Embedded implementation used 479 B of SRAM and 10,374 B of flash.
+- Investigated the effects of electrode placement and changes across recording sessions.
+Embedded C++ Python Signal processing Machine learning
+Hardware-in-the-Loop Telemetry Pipeline
+Built a distance-telemetry pipeline connecting an HC-SR04 sensor, Arduino firmware, and a live Python dashboard.
+Arduino C++ Python Streamlit
+Urban Longevity Dashboard
+Analyzed 64,488 NYC street trees to identify canopy gaps and generate planting recommendations.
+Third place — CUNY Civic Tech Data Hackathon at Baruch College. Led a team developing the dashboard using NYC street-tree data.
+Python Pandas Plotly Streamlit Geospatial analysis
+Currently building
+ATLAS — Experimental Verification Workspace · In development
+Building a workspace to help developers examine whether an ML evaluation supports its intended deployment claim. The project combines executable evaluation checks with model-assisted investigation and proposed code changes.
+The goal: make evaluation problems easier to reproduce, inspect, and correct, with evidence behind each finding.
+Technologies I work with
+Area	Technologies
+Programming	Python, C++
+Embedded systems	Arduino, ATmega328P, sensor integration
+Data & machine learning	NumPy, Pandas, scikit-learn, signal processing
+Interfaces & visualization	Streamlit, Plotly
+Development	Git, GitHub, VS Code
 
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-hossain-5a6425248)
-
----
 
 <p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  Interested in embedded software, applied AI, robotics, and research opportunities.<br>
+  <a href="https://linkedin.com/in/adnan-hossain-5a6425248">Connect on LinkedIn</a>
 </p>
