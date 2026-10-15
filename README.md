@@ -24,7 +24,7 @@ My long-term goal is to build a company and research lab developing useful techn
 
 ### Selected work
 
-#### Muscle-signal intent recognition · AFRL/CUNY research
+#### [Muscle-signal intent recognition · AFRL/CUNY research](https://github.com/lainx06/emg-gesture-classifier)
 
 Developed a low-cost sEMG intent-recognition system and implemented inference on an **ATmega328P**.
 
